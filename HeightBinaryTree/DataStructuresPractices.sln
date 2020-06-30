@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevelOrderTraversal", "..\L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBrackets", "..\BalancedBrackets\BalancedBrackets.csproj", "{BBEBA19B-34D3-4847-9BEB-22466BE6E1C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureIsland", "..\TreasureIsland\TreasureIsland.csproj", "{88FE2AF3-2E9D-4CF7-95AC-AAC4DCEF1EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreasureIsland", "..\TreasureIsland\TreasureIsland.csproj", "{88FE2AF3-2E9D-4CF7-95AC-AAC4DCEF1EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts", "..\Contacts\Contacts.csproj", "{73C5BC63-2FB4-4E1B-A477-8895607C010B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{88FE2AF3-2E9D-4CF7-95AC-AAC4DCEF1EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88FE2AF3-2E9D-4CF7-95AC-AAC4DCEF1EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88FE2AF3-2E9D-4CF7-95AC-AAC4DCEF1EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C5BC63-2FB4-4E1B-A477-8895607C010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C5BC63-2FB4-4E1B-A477-8895607C010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C5BC63-2FB4-4E1B-A477-8895607C010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C5BC63-2FB4-4E1B-A477-8895607C010B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
